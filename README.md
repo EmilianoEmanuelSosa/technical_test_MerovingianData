@@ -4,6 +4,12 @@
 
  # Ejercicio Merovingian Data - Dataset Airbnb
 
+
+ 
+ ![AirBnB](/_src/download.png)
+
+
+
 ## Descripción del ejercicio
 
 El ejercicio se centra en analizar un conjunto de datos de Airbnb en París. Airbnb es la plataforma líder de alquiler de alojamientos a nivel mundial, y en este ejercicio se busca responder diversas preguntas de negocio utilizando los datos proporcionados.
@@ -18,4 +24,15 @@ Se espera que el entregable final sea un Jupyter Notebook que contenga el códig
 
 ---
 
-()[]
+Debido al tamaño de los archivos, cree un carpeta de drive.[`Descarga los dos archivos restantes aca`](https://drive.google.com/drive/folders/1JxRCVbSgKgzd9khhIvk47Lqy3dS9vdao?usp=sharing)
+
+---
+
+Disfruté mucho trabajando en este proyecto, ya que pude aplicar mis habilidades de análisis de datos y encontrar respuestas a preguntas de negocio interesantes. Fue emocionante explorar los conjuntos de datos y descubrir información relevante sobre los alojamientos en París. Espero que los resultados sean útiles para el equipo de Airbnb y les ayude a tomar decisiones informadas para mejorar su negocio.
+
+> Daria todo lo que se por la mitad de lo que no desconozco..
+>                                                           Descartes
+
+Me fascino introducirme en este desafio, Agradecido con Barbara y el Equipo de Merovingian.
+
+
