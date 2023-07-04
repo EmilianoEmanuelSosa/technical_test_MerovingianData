@@ -2,13 +2,9 @@
 
 ---
 
- # Ejercicio Merovingian Data - Dataset Airbnb
+# Ejercicio Merovingian Data - Dataset Airbnb
 
-
- 
- ![AirBnB](/_src/download.png)
-
-
+![AirBnB](_src/download.png)
 
 ## Descripción del ejercicio
 
@@ -20,7 +16,7 @@ Además, se incluye el conjunto de datos `neighbourhoods.geojson`, que proporcio
 
 El objetivo del ejercicio es responder una serie de preguntas relacionadas con el negocio de Airbnb en París, como identificar las zonas con más departamentos, analizar la evolución de las reseñas a lo largo de los años, determinar las principales palabras asociadas a París según las opiniones de los viajeros, entre otros.
 
-Se espera que el entregable final sea un Jupyter Notebook que contenga el código necesario para responder cada pregunta, utilizando los conjuntos de `datos`  mencionados anteriormente.
+Se espera que el entregable final sea un Jupyter Notebook que contenga el código necesario para responder cada pregunta, utilizando los conjuntos de `datos` mencionados anteriormente.
 
 ---
 
@@ -31,8 +27,6 @@ Debido al tamaño de los archivos, cree un carpeta de drive.[`Descarga los dos a
 Disfruté mucho trabajando en este proyecto, ya que pude aplicar mis habilidades de análisis de datos y encontrar respuestas a preguntas de negocio interesantes. Fue emocionante explorar los conjuntos de datos y descubrir información relevante sobre los alojamientos en París. Espero que los resultados sean útiles para el equipo de Airbnb y les ayude a tomar decisiones informadas para mejorar su negocio.
 
 > Daria todo lo que se por la mitad de lo que no desconozco..
->                                                           Descartes
+> Descartes
 
 Me fascino introducirme en este desafio, Agradecido con Barbara y el Equipo de Merovingian.
-
-
