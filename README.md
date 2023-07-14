@@ -24,9 +24,8 @@ Debido al tamaño de los archivos, cree un carpeta de drive.[`Descarga los dos a
 
 ---
 
-Disfruté mucho trabajando en este proyecto, ya que pude aplicar mis habilidades de análisis de datos y encontrar respuestas a preguntas de negocio interesantes. Fue emocionante explorar los conjuntos de datos y descubrir información relevante sobre los alojamientos en París. Espero que los resultados sean útiles para el equipo y les ayude a tomar decisiones informadas para mejorar su negocio.
+Disfruté mucho trabajando en este proyecto, ya que pude aplicar mis habilidades de análisis de datos y encontrar respuestas a preguntas de negocio interesantes. Fue emocionante explorar los conjuntos de datos y descubrir información relevante sobre los alojamientos en París. Espero que los resultados sean útiles para tomar desiciones informadas
 
-> Daria todo lo que se por la mitad de lo que no desconozco..
-> Descartes
+---
 
 Me fascino introducirme en este desafio, Agradecido con Mercedes y el Equipo de Merovingian.
