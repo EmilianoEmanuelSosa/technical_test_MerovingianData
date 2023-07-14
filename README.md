@@ -29,4 +29,4 @@ Disfruté mucho trabajando en este proyecto, ya que pude aplicar mis habilidades
 > Daria todo lo que se por la mitad de lo que no desconozco..
 > Descartes
 
-Me fascino introducirme en este desafio, Agradecido con Barbara y el Equipo de Merovingian.
+Me fascino introducirme en este desafio, Agradecido con Mercedes y el Equipo de Merovingian.
